@@ -2,6 +2,9 @@
 
 Example using codelab-components to create a codelab.
 
+Demo: https://dnozay.github.io/polymer-codelab-test/
+
+
 ## Install the Polymer-CLI
 
 First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your application locally.
