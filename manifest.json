@@ -1,0 +1,7 @@
+{
+  "name": "codelab-test",
+  "short_name": "codelab-test",
+  "description": "Example using codelab-components to create a codelab.",
+  "start_url": "/",
+  "display": "standalone"
+}
